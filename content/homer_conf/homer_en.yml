@@ -3,16 +3,17 @@
 # See https://fontawesome.com/icons for icons options
 # Modified by wy580477 for customized container <https://github.com/wy580477>
 
-title: "Dashboard for Heroku-AIO-APP-EX"
+title: "Dashboard for TrixterTempDrive-Web"
 subtitle: "Homer"
 logo: "logo.png"
-# icon: "fas fa-skull-crossbones" # Optional icon
+icon: "fas fa-skull-crossbones" # Optional icon
 
 header: false
-footer: '<p>Created with <span class="has-text-danger">❤️</span> with <a href="https://bulma.io/">bulma</a>, <a href="https://vuejs.org/">vuejs</a> & <a href="https://fontawesome.com/">font awesome</a> // Fork me on <a href="https://github.com/bastienwirtz/homer"><i class="fab fa-github-alt"></i></a></p>' # set false if you want to hide it.
+footer: false
+# footer: '<p>Created with <span class="has-text-danger">❤️</span> with <a href="https://bulma.io/">bulma</a>, <a href="https://vuejs.org/">vuejs</a> & <a href="https://fontawesome.com/">font awesome</a> // Fork me on <a href="https://github.com/bastienwirtz/homer"><i class="fab fa-github-alt"></i></a></p>' # set false if you want to hide it.
 
 # Optional theme customization
-theme: default
+theme: sui
 colors:
   light:
     highlight-primary: "#3367d6"
@@ -52,16 +53,12 @@ message:
 # Optional navbar
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
 links:
-  - name: "Google"
-    url: "https://www.google.com/"
-  - name: "Youtube"
-    url: "https://www.youtube.com/"
-  - name: "Twitter"
-    url: "https://twitter.com/"
-  - name: "Reddit"
-    url: "www.reddit.com/"
-  - name: "Wikipedia"
-    url: "https://www.wikipedia.org/"
+  - name: "Github"
+    url: "https://github.com/trixter127/"
+  - name: "Telegram"
+    url: "https://t.me/trixter127/"
+  - name: "Bot Group"
+    url: "https://t.me/+Kh1ueSsHsjhkOTFl"
   
   # this will link to a second homer page that will load config from additionnal-page.yml and keep default config values as in config.yml file
   # see url field and assets/additionnal-page.yml.dist used in this example:
