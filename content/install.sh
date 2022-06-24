@@ -52,7 +52,7 @@ chmod +x /usr/bin/ffmpeg
 /workdir/install_2.sh
 
 # Install pyload & gallery-dl
-apk add --no-cache --virtual .build-deps curl-dev gcc libffi-dev musl-dev
+apk add --no-cache --virtual .build-deps curl-dev gcc libffi-dev musl-dev fuse
 pip install --no-cache-dir pyload-ng[plugins] --quiet >/dev/null
 python3 -m pip install --no-cache-dir -U gallery-dl --quiet >/dev/null
 apk del .build-deps
