@@ -17,10 +17,10 @@ theme: sui
 colors:
   light:
     highlight-primary: "#C4C9D4"
-    highlight-secondary: "#F0F2F4"
+    highlight-secondary: "#76BA99"
     highlight-hover: "#6C7893"
-    background: "#C4C9D4"
-    card-background: "#E2E4E9"
+    background: "#ADCF9F"
+    card-background: "#CED89E"
     text: "#363C49"
     text-header: "#0B0C0F"
     text-title: "#303030"
@@ -30,10 +30,10 @@ colors:
     link-hover: "#B42818"
   dark:
     highlight-primary: "#3367d6"
-    highlight-secondary: "#576075"
-    highlight-hover: "#A7AEBE"
-    background: "#2B303B"
-    card-background: "#414858"
+    highlight-secondary: "#ECB365"
+    highlight-hover: "#04293A"
+    background: "#041C32"
+    card-background: "#064663"
     text: "#C4C9D4"
     text-header: "#ffffff"
     text-title: "#C4C9D4"
